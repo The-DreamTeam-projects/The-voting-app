@@ -102,6 +102,3 @@ url: https://swapnilbamble1438.github.io/VotingApplication/
 
 
 
-### Project Creator: Swapnil Bamble
-
-
